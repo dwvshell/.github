@@ -1,3 +1,9 @@
+DWVSCPS ENERGY FAMILY TRUST™ – OWNERSHIP
+R. E. STOCKFORD JR / 15389089 CANADA INC.
+Trademark: DWV STOCKFORD CONTAMINATE PIPELINE SHELL INC™
+Patent-Pending (Government of Canada)
+TRUST VAULT: DWVSCPS_TRUST_VAULT_2026
+
 # .github
 [![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
 [![license](https://badgen.net/github/license/doocs/.github?color=green)](https://github.com/doocs/.github/blob/main/LICENSE)
